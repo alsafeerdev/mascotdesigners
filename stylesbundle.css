@@ -145,12 +145,12 @@ p.para-text {
     direction: ltr !important
 }
 
-.owl-carousel:lang(fa) .owl-item,
+.owl-carousel:lang(en) .owl-item,
 .owl-wrapper {
     direction: rtl
 }
 
-.owl-carousel:lang(fa) {
+.owl-carousel:lang(en) {
     direction: ltr !important
 }
 
