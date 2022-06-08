@@ -12,18 +12,6 @@ jQuery(document).ready(function () {
         slideTransition: 'ease',
         navText: [jQuery('.am-prev'), jQuery('.am-next')],
         nav: true,
-        responsive: {
-            0: {
-                items: 1
-            },
-            600: {
-                items: 3
-            },
-            1000: {
-                items: 4
-            }
-        },
-
     });
 
 
